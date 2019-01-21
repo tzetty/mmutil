@@ -1,0 +1,14 @@
+Debug/*
+Release/*
+mmcpp/Debug/*
+mmcpp/x64/Debug/*
+mmcpp/Release/*
+mmcpp/x64/Release/*
+mmcs/Debug/*
+mmcs/Release/*
+mmcs/bin/*
+mmcs/obj/*
+x64/Debug/
+x64/Release/
+.vs/*
+mmcpp/mmcpp.vcxproj.user
