@@ -8,7 +8,9 @@ mmcs/Debug/*
 mmcs/Release/*
 mmcs/bin/*
 mmcs/obj/*
+mmtemp/x64/*
 x64/Debug/
 x64/Release/
 .vs/*
 mmcpp/mmcpp.vcxproj.user
+mmtemp/mmtemp.vcxproj.user
